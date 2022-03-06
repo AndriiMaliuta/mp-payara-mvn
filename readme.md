@@ -1,5 +1,9 @@
 # MicroProfile generated Applications
 
+The Microprofile apps (backend and client) with Payara-Micro server.
+
+-----------
+
 MicroProfile Starter has generated 2 MicroProfile applications for you.
 
 There are 2 projects generated so that the examples for the Rest Client and/or JWT Auth specification are more realistic in the sense that they actually call an endpoint within another service.
